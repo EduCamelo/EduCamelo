@@ -26,6 +26,7 @@
 
 <div>
     Main tool:
+    <div>
      <img align="center" alt="Eduardo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
     </div>
 </div>
