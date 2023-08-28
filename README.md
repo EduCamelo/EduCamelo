@@ -1,17 +1,15 @@
 <head><i><h2>
     (English)hi hi, my name is Eduardo Camelo
-
     (PT-BR) Salve, família! Meu nome é Eduardo Camelo.
 </h2></i></head>
 
 <p>
     (English)Welcome to my world of fantasy and charms with programming codes. *-*
-
     I'm currently a computer science student and here I put my development on everything I did in my student time
-
-    (PT-BR)Bem-vindo ao meu mundo de fantasias e encantos com códigos de programação.
-
-    Sou estudante de Ciência da Computação e aqui compartilho todo o meu progresso acadêmico.
+</p>
+<p>
+        (PT-BR)Bem-vindo ao meu mundo de fantasias e encantos com códigos de programação.
+        Sou estudante de Ciência da Computação e aqui compartilho todo o meu progresso acadêmico.
 </p>
 
 <div>
@@ -24,10 +22,7 @@
 </div>
 
 <div>
-    Main tools:
-    <div>
-       <img align="center" alt="Eduardo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
-    <img align="center" alt="Eduardo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+    Main tool:
      <img align="center" alt="Eduardo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
     </div>
 </div>
