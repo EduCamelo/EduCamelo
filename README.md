@@ -16,7 +16,7 @@
 </p>
 <div>
       <div>
-  <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=EduCamelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs&hide=issues"/>
+  <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=EduCamelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs"/>
   <div> 
 </div>
 <div>
