@@ -20,7 +20,7 @@
   <div> 
 </div>
 ##
-          <h1 align="center">tools and languages</h1> 
+          <h3 align="center">tools and languages</h3> 
 <div>
     Languages:
     <div>
