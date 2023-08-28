@@ -1,5 +1,5 @@
 <head><i><h2><div>
-    (English	:flag_us:)hi hi, my name is Eduardo Camelo (●'◡'●)
+    (English)hi hi, my name is Eduardo Camelo (●'◡'●)
     </div>
    <div>
        (PT-BR) Salve, família! Meu nome é Eduardo Camelo. (●'◡'●)
