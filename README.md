@@ -1,6 +1,9 @@
-<head><i><h2>
+<head><i><h2><div>
     (English)hi hi, my name is Eduardo Camelo
-    (PT-BR) Salve, família! Meu nome é Eduardo Camelo.
+    </div>
+   <div>
+       (PT-BR) Salve, família! Meu nome é Eduardo Camelo.
+   </div>
 </h2></i></head>
 
 <p>
