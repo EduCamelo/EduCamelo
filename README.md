@@ -1,14 +1,14 @@
 <head><i><h2><div>
-    (English)hi hi, my name is Eduardo Camelo
+    (English	:flag_us:)hi hi, my name is Eduardo Camelo (●'◡'●)
     </div>
    <div>
-       (PT-BR) Salve, família! Meu nome é Eduardo Camelo.
+       (PT-BR) Salve, família! Meu nome é Eduardo Camelo. (●'◡'●)
    </div>
 </h2></i></head>
 
 <p>
-    (English)Welcome to my world of fantasy and charms with programming codes. *-*
-    I'm currently a computer science student and here I put my development on everything I did in my student time
+    (English)Welcome to my world of fantasy and charms with programming codes. 
+    I'm currently a computer science student and here I put my development on everything I did in my student time  
 </p>
 <p>
         (PT-BR)Bem-vindo ao meu mundo de fantasias e encantos com códigos de programação.
@@ -34,6 +34,12 @@
     <div>
      <img align="center" alt="Eduardo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
     </div>
+</div>
+
+<h3 align="center">Social:</h3> 
+<div align="center">
+      <a href="https://www.linkedin.com/in/gabluna/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/gablunadev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:gabriellunacv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
  ##
