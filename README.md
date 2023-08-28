@@ -19,8 +19,10 @@
   <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=EduCamelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs"/>
   <div> 
 </div>
+##
+          <h1 align="center">tools and languages</h1> 
 <div>
-    Hard skills:
+    Languages:
     <div>
         <img align="center" alt="Eduardo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
         <img align="center" alt="Eduardo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
@@ -30,16 +32,17 @@
 </div>
 
 <div>
-    Main tool:
+    tools:
     <div>
      <img align="center" alt="Eduardo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
     </div>
 </div>
 
-<h3 align="center">Social:</h3> 
+##
+<h1 align="center">Social:</h1> 
 <div align="center">
-      <a href="https://www.linkedin.com/in/gabluna/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/gablunadev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:gabriellunacv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/educamelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:eduardocamelobs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
  ##
