@@ -14,7 +14,11 @@
         (PT-BR)Bem-vindo ao meu mundo de fantasias e encantos com códigos de programação.
         Sou estudante de Ciência da Computação e aqui compartilho todo o meu progresso acadêmico.
 </p>
-
+<div>
+      <div>
+  <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=EduCamelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <div> 
+</div>
 <div>
     Hard skills:
     <div>
